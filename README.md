@@ -152,10 +152,3 @@ Data manipulation
 
 
 It provides a complete basic system for managing a library database.
-
-
-
-🎤 Viva questions
-
-
-bhi bana deta hoon 👍
